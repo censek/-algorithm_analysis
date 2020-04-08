@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508413706 source:c:\users\betty\desktop\bb\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1508552802 source:d:\Ëã·¨·ÖÎö\bb\main.cpp
+	<iostream>
+	<queue>
+
